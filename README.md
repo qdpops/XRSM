@@ -28,8 +28,8 @@
 ## ⚙️ Установка
 
 ```bash
-git clone https://github.com/yourusername/xray-reality-manager.git
-cd xray-reality-manager
+git clone https://github.com/qdpops/XRSM.git
+cd XRSM
 chmod +x setup.sh
 ./setup.sh
 ```
@@ -55,19 +55,4 @@ chmod +x setup.sh
 0. Выход
 ========================================
 ```
-
----
-
-## 🧠 Пример работы
-
-![Screenshot](https://repository-images.githubusercontent.com/1076750715/0a0438be-b345-48cd-94d7-db18f8c540f3)
-
----
-
-## 🪪 Лицензия
-
-Проект распространяется под лицензией **MIT License**.
-
----
-
-© 2025 Xray Reality Server Manager by [yourusername]
+© 2025 Xray Reality Server Manager by [qdp.ops]
