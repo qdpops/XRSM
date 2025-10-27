@@ -30,8 +30,8 @@
 ```bash
 git clone https://github.com/qdpops/XRSM.git
 cd XRSM
-chmod +x setup.sh
-./setup.sh
+chmod +x xray-manager.sh
+./xray-manager.sh
 ```
 
 ---
